@@ -8,6 +8,3 @@
 louisfischer/louisfischer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![button (5)](https://github.com/louisfischer/louisfischer/assets/1905010/41afa276-b501-49e7-85f0-6b8750e02713)
-![button (4)](https://github.com/louisfischer/louisfischer/assets/1905010/b0e78230-5f00-42cd-b8b5-065e4ab1ea17)
-![button (3)](https://github.com/louisfischer/louisfischer/assets/1905010/500f0587-729a-407a-a8b6-db3692001cf1)
